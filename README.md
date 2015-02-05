@@ -1,4 +1,4 @@
-grfiv.github.io
+TF-IDF on Hadoop, MapReduce
 ===============
 
-An example of TF-IDF using Hadoop, MapReduce
+http://grfiv.github.io/
